@@ -61,14 +61,14 @@ pip install pandas numpy matplotlib scikit-learn
   ```
 
 3. Navigate to the project directory:
-```bash
-cd Energy-Consumption-Predictor
-```
+   ```bash
+   cd Energy-Consumption-Predictor
+   ```
 
 4. Run the Jupyter notebook:
-```bash
-jupyter notebook Energy_Requirement_Prediction_Rahul_Prem.ipynb
-```
+   ```bash
+   jupyter notebook Energy_Requirement_Prediction_Rahul_Prem.ipynb
+   ```
 
 ## Results
 The results section includes:
