@@ -60,12 +60,12 @@ pip install pandas numpy matplotlib scikit-learn
    git clone https://github.com/rp097/Energy-Consumption-Predictor.git
   ```
 
-3. Navigate to the project directory:
+2. Navigate to the project directory:
    ```bash
    cd Energy-Consumption-Predictor
    ```
 
-4. Run the Jupyter notebook:
+3. Run the Jupyter notebook:
    ```bash
    jupyter notebook Energy_Requirement_Prediction_Rahul_Prem.ipynb
    ```
