@@ -52,3 +52,34 @@ The dataset contains the following columns:
 You can install the required packages using:
 ```bash
 pip install pandas numpy matplotlib scikit-learn
+```
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/rp097/Energy-Consumption-Predictor.git
+  ```
+
+3. Navigate to the project directory:
+```bash
+cd Energy-Consumption-Predictor
+```
+
+4. Run the Jupyter notebook:
+```bash
+jupyter notebook Energy_Requirement_Prediction_Rahul_Prem.ipynb
+```
+
+## Results
+The results section includes:
+- Visualizations of the predicted vs actual energy requirements.
+- Performance metrics of the predictive model.
+
+## Conclusion
+This project demonstrates a systematic approach to predicting energy requirements using historical consumption data. By leveraging statistical analysis and machine learning techniques, we can make informed predictions that assist in energy resource management.
+
+## License
+This project is licensed under the MIT License.
+
+## Contact
+For any questions or feedback, please contact Rahul Prem at rahulprem90@gmail.com
